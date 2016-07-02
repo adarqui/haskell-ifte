@@ -76,7 +76,7 @@ etifEither b a tf = ifteEither tf a b
 
 
 
--- | If True, then Just a else Nothing
+-- | If True, then (Just a) else Nothing
 --
 ifMaybe :: Bool -> a -> Maybe a
 ifMaybe True  = Just
