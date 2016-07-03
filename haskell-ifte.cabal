@@ -24,6 +24,7 @@ test-suite haskell-ifte-test
   type:                exitcode-stdio-1.0
   hs-source-dirs:      test
   main-is:             Spec.hs
+  other-modules:       Data.IfteSpec
   build-depends:       base
                      , hspec
                      , haskell-ifte
