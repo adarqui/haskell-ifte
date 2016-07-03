@@ -5,8 +5,8 @@ module Data.IfteSpec (
 
 
 
-import Test.Hspec
-import Data.Ifte
+import           Data.Ifte
+import           Test.Hspec
 
 
 
