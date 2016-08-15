@@ -15,6 +15,7 @@ module Data.Ifte (
 
 import           Data.Either ()
 import           Data.Maybe  ()
+import           Prelude
 
 
 
